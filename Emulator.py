@@ -7,3 +7,4 @@ def ept():
 ept()
 time.sleep(60)
 
+print ('fok of')
